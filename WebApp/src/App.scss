@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  .switch-btns {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .form-switch {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      .form-check-input {
+        width: 70px;
+        height: 40px;
+        margin-left: 10px;
+      }
+    }
+  }
+}
