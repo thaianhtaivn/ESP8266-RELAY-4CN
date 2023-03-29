@@ -1,5 +1,9 @@
 # Relay Box 4 channel
 
+### Concept
+
+![Diagram](/.pic/diagram.png)
+
 ### Shopee: _https://shopee.vn/product/47566847/15595970731_
 
 ### Webapp: _https://app4relay.netlify.app_
